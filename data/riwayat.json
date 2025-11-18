@@ -1,0 +1,82 @@
+[
+  {
+    "nama": "Lali",
+    "umur": "22",
+    "spo2": 100,
+    "denyut": 90,
+    "tekanan": 150,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "kuning"
+  },
+  {
+    "nama": "Daffa",
+    "umur": "33",
+    "spo2": 12,
+    "denyut": 45,
+    "tekanan": 33,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "merah"
+  },
+  {
+    "nama": "koko",
+    "umur": "22",
+    "spo2": 100,
+    "denyut": 90,
+    "tekanan": 100,
+    "waktuMenunggu": 24,
+    "notif": false,
+    "triase": "hijau"
+  },
+  {
+    "nama": "Testes",
+    "umur": "23",
+    "spo2": 100,
+    "denyut": 100,
+    "tekanan": 120,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "kuning"
+  },
+  {
+    "nama": "Hihu",
+    "umur": "22",
+    "spo2": 100,
+    "denyut": 90,
+    "tekanan": 100,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "hijau"
+  },
+  {
+    "nama": "misal",
+    "umur": "21",
+    "spo2": 100,
+    "denyut": 90,
+    "tekanan": 60,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "merah"
+  },
+  {
+    "nama": "Rafi",
+    "umur": "21",
+    "spo2": 100,
+    "denyut": 120,
+    "tekanan": 100,
+    "waktuMenunggu": 14,
+    "notif": false,
+    "triase": "kuning"
+  },
+  {
+    "nama": "adam",
+    "umur": "32",
+    "spo2": 100,
+    "denyut": 121,
+    "tekanan": 130,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "merah"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Daffa",
+    "umur": "21",
+    "spo2": 100,
+    "denyut": 120,
+    "tekanan": 100,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "kuning"
+  },
+  {
+    "nama": "Lila",
+    "umur": "22",
+    "spo2": 120,
+    "denyut": 100,
+    "tekanan": 90,
+    "waktuMenunggu": 0,
+    "notif": true,
+    "triase": "kuning"
+  }
+]
